@@ -4,7 +4,7 @@ This application is an assignment for the programming languages class.
 <img width="305" alt="Screen Shot 2020-02-01 at 18 33 20" src="https://user-images.githubusercontent.com/25563367/73594711-f8e1b400-4521-11ea-94ab-75da655b2dc9.png">
 
 The first screenshot is the homescreen of the application. 
-User can choose from the three options:
+User can choose from these three options:
 
 -BMI(Body Mass Index)
 
