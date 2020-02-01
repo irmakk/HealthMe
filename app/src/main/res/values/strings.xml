@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HealthMe</string>
+    <string name="bmi">BMI</string>
+    <string name="eer">EER</string>
+    <string name="pht">PHT</string>
+    <string name="height_m">Height(m)</string>
+    <string name="weight_kg">Weight(kg)</string>
+</resources>
